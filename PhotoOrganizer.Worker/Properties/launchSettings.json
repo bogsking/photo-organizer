@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PhotoOrganizer.Worker": {
+      "commandName": "Project",
+      "commandLineArgs": "\"destination\" \"unprocessed\" \"source\" "
+    }
+  }
+}
